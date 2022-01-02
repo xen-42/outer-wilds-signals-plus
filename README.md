@@ -1,2 +1,2 @@
-# Outer Wilds More Signals
+# Outer Wilds Signals+
 Adds unused signals to the game.
