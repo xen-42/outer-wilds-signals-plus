@@ -3,7 +3,7 @@
   "author": "xen",
   "name": "Signals+",
   "uniqueName": "xen.SignalsPlus",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
