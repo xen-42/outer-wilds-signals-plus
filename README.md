@@ -1,2 +1,2 @@
 # Outer Wilds Signals+
-Adds unused signals to the game.
+Implements unused/removed signals and Signalscope frequencies using [New Horizons](https://github.com/xen-42/outer-wilds-new-horizons).
