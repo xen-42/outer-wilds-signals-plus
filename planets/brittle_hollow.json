@@ -4,8 +4,8 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "WarpCore", "Name" : "Brittle Hollow Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0, "Position" : {"x": -33.62973, "y": 281.2079, "z": 99.87981} },
-			{ "Frequency" : "WarpCore", "Name" : "Black Hole Forge Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0, "Position" : {"x": -0.2366171, "y": 281.0531, "z": 30.04277} }
+			{ "Frequency" : "WarpCore", "Name" : "Brittle Hollow Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" : {"x": -33.62973, "y": 281.2079, "z": 99.87981} },
+			{ "Frequency" : "WarpCore", "Name" : "Black Hole Forge Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" : {"x": -0.2366171, "y": 281.0531, "z": 30.04277} }
 		]
 	}
 }

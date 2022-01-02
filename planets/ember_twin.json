@@ -5,7 +5,7 @@
 		"Signals" : 
 		[
 			{ "Frequency" : "WarpCore", "Name" : "High Energy Lab", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 10, "Position" : {"x": 84.44549, "y": 71.6821, "z": 81.46239} },
-			{ "Frequency" : "WarpCore", "Name" : "Ember Twin Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0, "Position" : {"x": 83.70132, "y": -60.26747, "z": 121.1149} }
+			{ "Frequency" : "WarpCore", "Name" : "Ember Twin Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" : {"x": 83.70132, "y": -60.26747, "z": 121.1149} }
 		]
 	}
 }
