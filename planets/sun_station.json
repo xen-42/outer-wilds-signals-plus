@@ -1,0 +1,10 @@
+{
+	"name" : "Sun Station",
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ "Frequency" : "WarpCore", "Name" : "Sun Station Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0, "Position" :  {"x": -89.25825, "y": 30.6206, "z": -0.3082233} }
+		]
+	}
+}

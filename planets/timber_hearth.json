@@ -1,0 +1,11 @@
+{
+	"name" : "Timber Hearth",
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ "Frequency" : "Statue", "Name" : "Museum Statue", "AudioClip" : "OW NM Flashback 082818 AP loop", "SourceRadius" : 0, "Position" : {"x": -76.35, "y": 12, "z": 214.7 } },
+			{ "Frequency" : "WarpCore", "Name" : "Timber Hearth Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0, "Position" : {"x": -237.8, "y": -50.8, "z": -59.2 } }
+		]
+	}
+}

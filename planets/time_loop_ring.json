@@ -1,0 +1,10 @@
+{
+	"name" : "Time Loop Ring",
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ "Frequency" : "WarpCore", "Name" : "ATP Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0, "Position" : {"x": 83.70132, "y": -60.26747, "z": 121.1149} }
+		]
+	}
+}

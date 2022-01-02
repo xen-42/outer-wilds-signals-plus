@@ -1,0 +1,10 @@
+{
+	"name" : "Giant's Deep",
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ "Frequency" : "Statue", "Name" : "Tracking Module Statue", "AudioClip" : "OW NM Flashback 082818 AP loop", "SourceRadius" : 0, "Position" : {"x": -27.1, "y": -67.3, "z": -37.4 } }
+		]
+	}
+}
