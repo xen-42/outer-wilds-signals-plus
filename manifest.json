@@ -1,8 +1,8 @@
 {
   "filename": "NewHorizonsConfig.dll",
   "author": "xen",
-  "name": "More Signals",
-  "uniqueName": "xen.MoreSignals",
+  "name": "SignalsPlus",
+  "uniqueName": "xen.SignalsPlus",
   "version": "0.1.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
