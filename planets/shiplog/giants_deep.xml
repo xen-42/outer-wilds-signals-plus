@@ -3,7 +3,7 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_GIANTS_DEEP</ID>
-        <Name>Giant's Deep signals</Name>
+        <Name>Giant's Deep Signals</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
@@ -19,7 +19,7 @@
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_GIANTS_DEEP_STATUE_ISLAND</ID> 
-            <Text>I found an actively transmitting Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.</Text> 
+            <Text>I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.</Text> 
         </ExploreFact>
 
         <ExploreFact>

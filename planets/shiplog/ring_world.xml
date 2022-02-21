@@ -3,28 +3,28 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_RING_WORLD</ID>
-        <Name>Stranger signals</Name>
+        <Name>Concealed Signals</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <RumorFact>
             <ID>SIGNALS_PLUS_RINGWORLD_RUMOUR</ID>
-            <Text>I should investigate the Stranger for any strange signals.</Text> 
+            <Text>I should investigate the Ring World for any strange signals.</Text> 
          </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_LOWLANDS</ID> 
-            <Text>I found a signal coming from a building in the Lowlands. It sounds like singing. My signalscope is unable to determine the frequency.</Text> 
+            <Text>There is a signal coming from a building in the River Lowlands.</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_ISLES</ID> 
-            <Text>I found a signal coming from a building in the Isles.</Text> 
+            <Text>I found a signal coming from the tower in the Cinder Isles.</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_GORGE</ID> 
-            <Text>I found a signal coming from a building in the Gorge.</Text> 
+            <Text>A building in the Hidden Gorge has a strange signal coming from it.</Text> 
         </ExploreFact>
 
         <ExploreFact>

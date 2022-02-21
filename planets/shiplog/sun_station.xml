@@ -3,13 +3,13 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_SUN_STATION</ID>
-        <Name>Sun Station signals</Name>
+        <Name>Sun Station Receiver</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_SUN_STATION_RECEIVER</ID> 
-            <Text>I found a warp receiver on the Sun Station. Getting here without that would be a real <![CDATA[<i>achievement</i>]]>.</Text> 
+            <Text>I found a warp receiver on the Sun Station. Getting here without that would be a real <i>achievement</i>.</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

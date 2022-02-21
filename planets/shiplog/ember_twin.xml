@@ -3,7 +3,7 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_CAVE_TWIN</ID>
-        <Name>Ember Twin signals</Name>
+        <Name>Ember Twin Signals</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
@@ -14,7 +14,7 @@
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_HEL</ID> 
-            <Text>I detected intense gravitational and anti-gravitational reading in Ember Twin's High Energy Lab.</Text> 
+            <Text>I detected intense gravitational and anti-gravitational readings in the High Energy Lab.</Text> 
         </ExploreFact>
         <ExploreFact>
             <ID>SIGNALS_PLUS_EMBER_TWIN_RECEIVER</ID> 
