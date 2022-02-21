@@ -4,8 +4,55 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "Statue", "Name" : "Museum Statue", "AudioClip" : "OW NM Flashback 082818 AP loop", "SourceRadius" : 1, "Position" : {"x": -76.35, "y": 12, "z": 214.7 } },
-			{ "Frequency" : "WarpCore", "Name" : "Timber Hearth Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" : {"x": -237.8, "y": -50.8, "z": -59.2 } }
+			{ 
+				"Frequency" : "Statue", 
+				"Name" : "Museum Statue", 
+				"AudioClip" : "OW NM Flashback 082818 AP loop", 
+				"SourceRadius" : 1, 
+				"Position" : {"x": -76.35, "y": 12, "z": 214.7 },
+				"Reveals" : "SIGNALS_PLUS_TIMBER_HEARTH_MUSEUM_STATUE"
+			},
+			{ 
+				"Frequency" : "WarpCore", 
+				"Name" : "Timber Hearth Receiver", 
+				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
+				"SourceRadius" : 0.5, 
+				"Position" : {"x": -237.8, "y": -50.8, "z": -59.2 },
+				"Reveals" : "SIGNALS_PLUS_TIMBER_HEARTH_RECEIVER"
+			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/timber_hearth.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"initialReveal" : [
+			"SIGNALS_PLUS_TIMBER_HEARTH_RUMOR"
+		],
+		"curiosities": [
+			{
+				"id": "SIGNALS_PLUS_TIMBER_HEARTH",
+				"color": {
+					"r": 243,
+					"g": 112,
+					"b": 255,
+					"a": 255
+				},
+				"highlightColor": {
+					"r": 255,
+					"g": 163,
+					"b": 218,
+					"a": 255
+				}
+			}
+		],
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_TIMBER_HEARTH",
+				"position": {
+					"x": 750,
+					"y": 1900
+				}
+			}
 		]
 	}
 }

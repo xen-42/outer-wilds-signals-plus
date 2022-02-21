@@ -11,7 +11,21 @@
 				"SourceRadius" : 50, 
 				"DetectionRadius" : 1000,
 				"IdentificationRadius" : 600,
-				"Position" : {"x": 0, "y": 0, "z": 0} 
+				"Position" : {"x": 0, "y": 0, "z": 0},
+				"Reveals" : "SIGNALS_PLUS_WHITE_HOLE" 
+			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/white_hole.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_WHITE_HOLE",
+				"position": {
+					"x": 950,
+					"y": 1750
+				}
 			}
 		]
 	}

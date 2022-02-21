@@ -1,0 +1,24 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>BRITTLE_HOLLOW</ID>
+
+    <Entry>
+        <ID>SIGNALS_PLUS_BRITTLE_HOLLOW</ID>
+        <Name>Brittle Hollow signals</Name>
+
+        <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
+
+        <RumorFact>
+           <ID>SIGNALS_PLUS_BRITTLE_HOLLOW_RUMOUR</ID>
+           <Text>I should investigate Brittle Hollow for any strange signals.</Text> 
+        </RumorFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_BH_RECEIVER</ID> 
+            <Text>I found a warp receiver on the surface of Brittle Hollow.</Text> 
+        </ExploreFact>
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_BH_BLACK_HOLE_FORGE</ID> 
+            <Text>I found a warp receiver under Brittle Hollow's surface, near the Black Hole Forge.</Text> 
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

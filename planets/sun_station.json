@@ -4,7 +4,27 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "WarpCore", "Name" : "Sun Station Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" :  {"x": -89.25825, "y": 30.6206, "z": -0.3082233} }
+			{ 
+				"Frequency" : "WarpCore", 
+				"Name" : "Sun Station Receiver", 
+				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
+				"SourceRadius" : 0.5, 
+				"Position" : {"x": -89.25825, "y": 30.6206, "z": -0.3082233},
+				"Reveals" : "SIGNALS_PLUS_SUN_STATION_RECEIVER"
+			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/sun_station.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_SUN_STATION",
+				"position": {
+					"x": 550,
+					"y": 1900
+				}
+			}
 		]
 	}
 }

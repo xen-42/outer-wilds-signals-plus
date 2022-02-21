@@ -4,7 +4,32 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "Statue", "Name" : "Tracking Module Statue", "AudioClip" : "OW NM Flashback 082818 AP loop", "SourceRadius" : 1, "Position" : {"x": -27.1, "y": -67.3, "z": -37.4 } }
+			{ 
+				"Frequency" : "Statue", 
+				"Name" : "Tracking Module Statue", 
+				"AudioClip" : "OW NM Flashback 082818 AP loop", 
+				"SourceRadius" : 1, 
+				"Position" : {"x": -27.1, "y": -67.3, "z": -37.4 },
+				"Reveals" : "SIGNALS_PLUS_GIANTS_DEEP_CORE_STATUE"
+			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/giants_deep.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_GIANTS_DEEP",
+				"position": {
+					"x": 900,
+					"y": 1550
+				}
+			}
+		]
+	},
+	"Props":{
+		"reveal": [
+			{"radius":2500, "reveals": ["SIGNALS_PLUS_GIANTS_DEEP_RUMOUR"]}
 		]
 	}
 }

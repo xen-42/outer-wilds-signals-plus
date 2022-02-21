@@ -4,7 +4,27 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "WarpCore", "Name" : "ATP Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" : {"x": 83.70132, "y": -60.26747, "z": 121.1149} }
+			{ 
+				"Frequency" : "WarpCore", 
+				"Name" : "ATP Receiver", 
+				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
+				"SourceRadius" : 0.5, 
+				"Position" : {"x": 0.5072767, "y": 27.81804, "z": 0.5020311},
+				"Reveals" : "SIGNALS_PLUS_ATP_RECEIVER"
+			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/time_loop_ring.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_TIME_LOOP_RING",
+				"position": {
+					"x": 500,
+					"y": 1500
+				}
+			}
 		]
 	}
 }

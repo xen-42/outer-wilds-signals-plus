@@ -1,0 +1,15 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>SUN_STATION</ID>
+
+    <Entry>
+        <ID>SIGNALS_PLUS_SUN_STATION</ID>
+        <Name>Sun Station signals</Name>
+
+        <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_SUN_STATION_RECEIVER</ID> 
+            <Text>I found a warp receiver on the Sun Station. Getting here without that would be a real <![CDATA[<i>achievement</i>]]>.</Text> 
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

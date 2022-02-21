@@ -12,7 +12,8 @@
 				"DetectionRadius" : 60,
 				"IdentificationRadius" : 20,
 				"Position" : {"x": -131.1694, "y": -57.26183, "z": -225.0898},
-				"InsideCloak" : true 
+				"InsideCloak" : true,
+				"Reveals":"SIGNALS_PLUS_RINGWORLD_LOWLANDS"
 			},
 			{ 
 				"Frequency" : "Default", 
@@ -22,7 +23,8 @@
 				"DetectionRadius" : 60,
 				"IdentificationRadius" : 20,
 				"Position" : {"x": -218.6483, "y": 41.53543, "z": 89.7927},
-				"InsideCloak" : true 
+				"InsideCloak" : true,
+				"Reveals": "SIGNALS_PLUS_RINGWORLD_ISLES"
 			},
 			{ 
 				"Frequency" : "Default", 
@@ -32,7 +34,8 @@
 				"DetectionRadius" : 60,
 				"IdentificationRadius" : 20,
 				"Position" : {"x": 94.07929, "y": -141.1586, "z": 209.9074},
-				"InsideCloak" : true  
+				"InsideCloak" : true,
+				"Reveals": "SIGNALS_PLUS_RINGWORLD_GORGE"
 			},
 			{ 
 				"Frequency" : "Default", 
@@ -42,8 +45,27 @@
 				"DetectionRadius" : 60,
 				"IdentificationRadius" : 20,
 				"Position" : {"x": 212.9717, "y": -75.59914, "z": -135.7849},
-				"InsideCloak" : true 
+				"InsideCloak" : true,
+				"Reveals": "SIGNALS_PLUS_RINGWORLD_VAULT"
 			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/ring_world.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_RING_WORLD",
+				"position": {
+					"x": 950,
+					"y": 2150
+				}
+			}
+		]
+	},
+	"Props":{
+		"reveal": [
+			{"radius":1000, "reveals": ["SIGNALS_PLUS_RINGWORLD_RUMOUR"]}
 		]
 	}
 }

@@ -1,0 +1,24 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>CAVE_TWIN</ID>
+
+    <Entry>
+        <ID>SIGNALS_PLUS_CAVE_TWIN</ID>
+        <Name>Ember Twin signals</Name>
+
+        <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
+
+        <RumorFact>
+            <ID>SIGNALS_PLUS_EMBER_TWIN_RUMOUR</ID>
+            <Text>I should investigate Ember Twin for any strange signals.</Text> 
+         </RumorFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_HEL</ID> 
+            <Text>I detected intense gravitational and anti-gravitational reading in Ember Twin's High Energy Lab.</Text> 
+        </ExploreFact>
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_EMBER_TWIN_RECEIVER</ID> 
+            <Text>I found a warp receiver on the surface of Ember Twin.</Text> 
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

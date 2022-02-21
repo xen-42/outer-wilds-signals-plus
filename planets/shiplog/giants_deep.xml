@@ -1,0 +1,30 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>GIANTS_DEEP</ID>
+
+    <Entry>
+        <ID>SIGNALS_PLUS_GIANTS_DEEP</ID>
+        <Name>Giant's Deep signals</Name>
+
+        <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
+
+        <RumorFact>
+            <ID>SIGNALS_PLUS_GIANTS_DEEP_RUMOUR</ID>
+            <Text>I should investigate Giant's Deep for any strange signals.</Text> 
+         </RumorFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_GIANTS_DEEP_CORE_STATUE</ID> 
+            <Text>I found an actively transmitting Nomai statue in the core of Giant's Deep!</Text> 
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_GIANTS_DEEP_STATUE_ISLAND</ID> 
+            <Text>I found an actively transmitting Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.</Text> 
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_GIANTS_DEEP_RECEIVER</ID> 
+            <Text>I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.</Text> 
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

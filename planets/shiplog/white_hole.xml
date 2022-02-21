@@ -1,0 +1,21 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
+    <ID>WHITE_HOLE</ID>
+
+    <Entry>
+        <ID>SIGNALS_PLUS_WHITE_HOLE</ID>
+        <Name>White Hole signals</Name>
+
+        <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
+
+        <RumorFact>
+            <ID>SIGNALS_PLUS_WHITE_HOLE_RUMOUR</ID>
+            <SourceID>SIGNALS_PLUS_BRITTLE_HOLLOW</SourceID>
+            <Text>My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.</Text> 
+         </RumorFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_WHITE_HOLE</ID> 
+            <Text>My signalscope is reading massive anti-graviton fluctuations from the white hole. "Massive" is the wrong word. Anti-massive?</Text> 
+        </ExploreFact>
+    </Entry>
+</AstroObjectEntry>

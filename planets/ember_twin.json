@@ -4,8 +4,40 @@
 	{
 		"Signals" : 
 		[
-			{ "Frequency" : "WarpCore", "Name" : "High Energy Lab", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 10, "Position" : {"x": 84.44549, "y": 71.6821, "z": 81.46239} },
-			{ "Frequency" : "WarpCore", "Name" : "Ember Twin Receiver", "AudioClip" : "OW_NM_WhiteHoleAmbienceL", "SourceRadius" : 0.5, "Position" : {"x": 83.70132, "y": -60.26747, "z": 121.1149} }
+			{ 
+				"Frequency" : "WarpCore", 
+				"Name" : "High Energy Lab", 
+				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
+				"SourceRadius" : 10, 
+				"Position" : {"x": 84.44549, "y": 71.6821, "z": 81.46239},
+				"Reveals": "SIGNALS_PLUS_HEL" 
+			},
+			{ 
+				"Frequency" : "WarpCore", 
+				"Name" : "Ember Twin Receiver", 
+				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
+				"SourceRadius" : 0.5, 
+				"Position" : {"x": 83.70132, "y": -60.26747, "z": 121.1149},
+				"Reveals": "SIGNALS_PLUS_EMBER_TWIN_RECEIVER"
+			}
+		]
+	},
+	"ShipLog" : {
+		"xmlFile": "planets/shiplog/ember_twin.xml",
+		"spriteFolder" : "planets/shiplog/sprites",
+		"entryPositions": [
+			{
+				"id": "SIGNALS_PLUS_CAVE_TWIN",
+				"position": {
+					"x": 500,
+					"y": 1700
+				}
+			}
+		]
+	},
+	"Props":{
+		"reveal": [
+			{"radius":400, "reveals": ["SIGNALS_PLUS_EMBER_TWIN_RUMOUR"]}
 		]
 	}
 }
