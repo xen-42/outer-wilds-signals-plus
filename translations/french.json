@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/translation_schema.json",
+	"UIDictionary": 
+	{
+		"SIGNALS_PLUS_SIGNAL_SHIP" : "FUSÉE",
+		"SIGNALS_PLUS_FREQ_SHIP" : "TRANSPONDEURS DE FUSÉES"
+	}	
+}

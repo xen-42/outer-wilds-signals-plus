@@ -1,0 +1,82 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/translation_schema.json",
+	"ShipLogDictionary": 
+	{
+		"SIGNALS_PLUS_BRITTLE_HOLLOW" : "Brittle Hollow Signals",
+		"SIGNALS_PLUS_BRITTLE_HOLLOW_RUMOUR" : "I should investigate Brittle Hollow for any strange signals.",
+		"SIGNALS_PLUS_BH_RECEIVER" : "I found a warp receiver on the surface of Brittle Hollow.",
+		"SIGNALS_PLUS_BH_BLACK_HOLE_FORGE" : "I found a warp receiver under Brittle Hollow's surface, near the Black Hole Forge.",
+
+		"SIGNALS_PLUS_CAVE_TWIN" : "Ember Twin Signals",
+		"SIGNALS_PLUS_EMBER_TWIN_RUMOUR" : "I should investigate Ember Twin for any strange signals.",
+		"SIGNALS_PLUS_HEL" : "I detected intense gravitational and anti-gravitational readings in the High Energy Lab.",
+		"SIGNALS_PLUS_EMBER_TWIN_RECEIVER" : "I found a warp receiver on the surface of Ember Twin.",
+
+		"SIGNALS_PLUS_WHITE_HOLE" : "Anti- Graviton Flux",
+		"SIGNALS_PLUS_WHITE_HOLE_RUMOUR" : "My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.",
+		"SIGNALS_PLUS_WHITE_HOLE_EXPLORE" : "My signalscope is reading massive anti-graviton fluctuations from the white hole. \"Massive\" is the wrong word. Anti-massive?",
+
+		"SIGNALS_PLUS_GIANTS_DEEP" : "Giant's Deep Signals",
+		"SIGNALS_PLUS_GIANTS_DEEP_RUMOUR" : "I should investigate Giant's Deep for any strange signals.",
+		"SIGNALS_PLUS_GIANTS_DEEP_CORE_STATUE" : "I found an actively transmitting Nomai statue in the core of Giant's Deep!",
+		"SIGNALS_PLUS_GIANTS_DEEP_STATUE_ISLAND" : "I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.",
+		"SIGNALS_PLUS_GIANTS_DEEP_RECEIVER" : "I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.",
+
+		"SIGNALS_PLUS_RING_WORLD" : "Concealed Signals",
+		"SIGNALS_PLUS_RINGWORLD_RUMOUR" : "I should investigate the Ring World for any strange signals.",
+		"SIGNALS_PLUS_RINGWORLD_LOWLANDS" : "There is a signal coming from a building in the River Lowlands.",
+		"SIGNALS_PLUS_RINGWORLD_ISLES" : "I found a signal coming from the tower in the Cinder Isles.",
+		"SIGNALS_PLUS_RINGWORLD_GORGE" : "A building in the Hidden Gorge has a strange signal coming from it.",
+		"SIGNALS_PLUS_RINGWORLD_VAULT" : "I found a signal coming from a submerged structure. It sounds sad.",
+
+		"SIGNALS_PLUS_SUN_STATION" : "Sun Station Receiver",
+		"SIGNALS_PLUS_SUN_STATION_RECEIVER" : "I found a warp receiver on the Sun Station. Getting here without that would be a real <i>achievement</i>.",
+
+		"SIGNALS_PLUS_TIMBER_HEARTH" : "Unknown Frequencies",
+		"SIGNALS_PLUS_TIMBER_HEARTH_RUMOR" : "I should investigate Timber Hearth for any strange signal frequencies.",
+		"SIGNALS_PLUS_TIMBER_HEARTH_MUSEUM_STATUE" : "The Nomai statue that looked at me in the museum is transmitting some sort of signal on a frequency I haven't seen before.",
+		"SIGNALS_PLUS_TIMBER_HEARTH_RECEIVER" : "I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.",
+
+		"SIGNALS_PLUS_TIME_LOOP_RING" : "ATP Receiver",
+		"SIGNALS_PLUS_ATP_RECEIVER" : "I found a warp receiver in the center of Ash Twin."
+
+	},
+	"UIDictionary": 
+	{
+		"SIGNALS_PLUS_FREQ_BLACKHOLE" : "Hawking Radiation",
+		"SIGNALS_PLUS_FREQ_SHIP" : "Ship Transponders",
+		"SIGNALS_PLUS_FREQ_RINGWORLD" : "Ring World",
+
+		"SIGNALS_PLUS_SIGNAL_SHIP" : "My ship",
+		"SIGNALS_PLUS_SIGNAL_GABBRO_SHIP" : "Gabbro's Ship",
+		"SIGNALS_PLUS_SIGNAL_CHERT_SHIP" : "Chert's Ship",
+		"SIGNALS_PLUS_SIGNAL_FELDSPAR_SHIP" : "Feldspar's Ship",
+		"SIGNALS_PLUS_SIGNAL_CRASHED_SHIP" : "Crashed Ship",
+		"SIGNALS_PLUS_SIGNAL_RIEBECK_SHIP" : "Riebeck's Ship",
+
+		"SIGNALS_PLUS_SIGNAL_BRITTLE_HOLLOW_RECEIVER" : "Brittle Hollow Receiver",
+		"SIGNALS_PLUS_SIGNAL_BLACK_HOLE_FORGE_RECEIVER" : "Black Hole Forge Receiver",
+		"SIGNALS_PLUS_SIGNAL_BLACKHOLE" : "Blackhole",
+
+		"SIGNALS_PLUS_SIGNAL_HIGH_ENERGY_LAB" : "High Energy Lab",
+		"SIGNALS_PLUS_SIGNAL_EMBER_TWIN_RECEIVER" : "Ember Twin Receiver",
+		
+		"SIGNALS_PLUS_SIGNAL_WH" : "White Hole",
+		
+		"SIGNALS_PLUS_SIGNAL_LOWLANDS" : "River Lowlands",
+		"SIGNALS_PLUS_SIGNAL_ISLES" : "Cinder Isles",
+		"SIGNALS_PLUS_SIGNAL_GORGE" : "Hidden Gorge",
+		"SIGNALS_PLUS_SIGNAL_SUBMERGED" : "Submerged Structure",
+
+		"SIGNALS_PLUS_SIGNAL_GD_STATUE" : "Giant's Deep Statue",
+		"SIGNALS_PLUS_SIGNAL_GD_RECEIVER" : "Giant's Deep Receiver",
+		"SIGNALS_PLUS_SIGNAL_TRACKING_MODULE_STATUE" : "Tracking Module Statue",
+
+		"SIGNALS_PLUS_SIGNAL_SS_RECEIVER" : "Sun Station Receiver",
+
+		"SIGNALS_PLUS_SIGNAL_TH_STATUE" : "Museum Statue",
+		"SIGNALS_PLUS_SIGNAL_TH_RECEIVER" : "Timber Hearth Receiver",
+
+		"SIGNALS_PLUS_SIGNAL_ATP_RECEIVER" : "ATP Receiver"
+	}	
+}

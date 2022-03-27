@@ -6,7 +6,7 @@
 		[
 			{ 
 				"Frequency" : "WarpCore", 
-				"Name" : "White Hole", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_WH", 
 				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
 				"SourceRadius" : 50, 
 				"DetectionRadius" : 1000,

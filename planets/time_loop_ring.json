@@ -6,7 +6,7 @@
 		[
 			{ 
 				"Frequency" : "WarpCore", 
-				"Name" : "ATP Receiver", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_ATP_RECEIVER", 
 				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
 				"SourceRadius" : 0.5, 
 				"Position" : {"x": 0.5072767, "y": 27.81804, "z": 0.5020311},

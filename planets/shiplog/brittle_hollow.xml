@@ -3,22 +3,26 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_BRITTLE_HOLLOW</ID>
-        <Name>Brittle Hollow Signals</Name>
+        <Name>SIGNALS_PLUS_BRITTLE_HOLLOW</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <RumorFact>
            <ID>SIGNALS_PLUS_BRITTLE_HOLLOW_RUMOUR</ID>
-           <Text>I should investigate Brittle Hollow for any strange signals.</Text> 
+           <Text>SIGNALS_PLUS_BRITTLE_HOLLOW_RUMOUR</Text> 
         </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_BH_RECEIVER</ID> 
-            <Text>I found a warp receiver on the surface of Brittle Hollow.</Text> 
+            <Text>SIGNALS_PLUS_BH_RECEIVER</Text> 
         </ExploreFact>
         <ExploreFact>
             <ID>SIGNALS_PLUS_BH_BLACK_HOLE_FORGE</ID> 
-            <Text>I found a warp receiver under Brittle Hollow's surface, near the Black Hole Forge.</Text> 
+            <Text>SIGNALS_PLUS_BH_BLACK_HOLE_FORGE</Text> 
+        </ExploreFact>
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_RIEBECK_SHIP</ID> 
+            <Text>SIGNALS_PLUS_RIEBECK_SHIP</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

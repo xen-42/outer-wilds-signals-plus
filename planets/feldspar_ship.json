@@ -1,0 +1,8 @@
+{
+	"name" : "FeldsparShip",
+	"Props":{
+		"reveal": [
+			{"radius":100, "reveals": ["SIGNALS_PLUS_FELDSPAR_SHIP"]}
+		]
+	}
+}

@@ -6,7 +6,7 @@
 		[
 			{ 
 				"Frequency" : "Statue",
-				"Name" : "Giant's Deep Statue", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_GD_STATUE", 
 				"AudioClip" : "OW NM Flashback 082818 AP loop", 
 				"SourceRadius" : 1, 
 				"Position" : {"x": -1.2, "y": 11.7, "z": 9.9 },
@@ -14,7 +14,7 @@
 			},
 			{ 
 				"Frequency" : "WarpCore", 
-				"Name" : "Giant's Deep Receiver", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_GD_RECEIVER", 
 				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
 				"SourceRadius" : 0.5, 
 				"Position" : {"x": 16.92818, "y": 53.42683, "z": -63.41078},

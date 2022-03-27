@@ -6,7 +6,7 @@
 		[
 			{ 
 				"Frequency" : "Statue", 
-				"Name" : "Tracking Module Statue", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_TRACKING_MODULE_STATUE", 
 				"AudioClip" : "OW NM Flashback 082818 AP loop", 
 				"SourceRadius" : 1, 
 				"Position" : {"x": -27.1, "y": -67.3, "z": -37.4 },

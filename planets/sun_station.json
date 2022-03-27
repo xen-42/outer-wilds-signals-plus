@@ -6,7 +6,7 @@
 		[
 			{ 
 				"Frequency" : "WarpCore", 
-				"Name" : "Sun Station Receiver", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_SS_RECEIVER", 
 				"AudioClip" : "OW_NM_WhiteHoleAmbienceL", 
 				"SourceRadius" : 0.5, 
 				"Position" : {"x": -89.25825, "y": 30.6206, "z": -0.3082233},

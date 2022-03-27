@@ -3,28 +3,33 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_GIANTS_DEEP</ID>
-        <Name>Giant's Deep Signals</Name>
+        <Name>SIGNALS_PLUS_GIANTS_DEEP</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <RumorFact>
             <ID>SIGNALS_PLUS_GIANTS_DEEP_RUMOUR</ID>
-            <Text>I should investigate Giant's Deep for any strange signals.</Text> 
+            <Text>SIGNALS_PLUS_GIANTS_DEEP_RUMOUR</Text> 
          </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_GIANTS_DEEP_CORE_STATUE</ID> 
-            <Text>I found an actively transmitting Nomai statue in the core of Giant's Deep!</Text> 
+            <Text>SIGNALS_PLUS_GIANTS_DEEP_CORE_STATUE</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_GIANTS_DEEP_STATUE_ISLAND</ID> 
-            <Text>I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.</Text> 
+            <Text>SIGNALS_PLUS_GIANTS_DEEP_STATUE_ISLAND</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_GIANTS_DEEP_RECEIVER</ID> 
-            <Text>I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.</Text> 
+            <Text>SIGNALS_PLUS_GIANTS_DEEP_RECEIVER</Text> 
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_GABBRO_SHIP</ID> 
+            <Text>SIGNALS_PLUS_GABBRO_SHIP</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

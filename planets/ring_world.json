@@ -5,8 +5,8 @@
 		"Signals" : 
 		[
 			{ 
-				"Frequency" : "Default", 
-				"Name" : "River Lowlands", 
+				"Frequency" : "SIGNALS_PLUS_FREQ_RINGWORLD", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_LOWLANDS", 
 				"AudioClip" : "Outer Wilds Party House v8 050321_3 AP traveler", 
 				"SourceRadius" : 10, 
 				"DetectionRadius" : 60,
@@ -16,8 +16,8 @@
 				"Reveals":"SIGNALS_PLUS_RINGWORLD_LOWLANDS"
 			},
 			{ 
-				"Frequency" : "Default", 
-				"Name" : "Cinder Isles", 
+				"Frequency" : "SIGNALS_PLUS_FREQ_RINGWORLD", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_ISLES", 
 				"AudioClip" : "Dreamworld Nature Ambience 4", 
 				"SourceRadius" : 10, 
 				"DetectionRadius" : 60,
@@ -27,8 +27,8 @@
 				"Reveals": "SIGNALS_PLUS_RINGWORLD_ISLES"
 			},
 			{ 
-				"Frequency" : "Default", 
-				"Name" : "Hidden Gorge", 
+				"Frequency" : "SIGNALS_PLUS_FREQ_RINGWORLD", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_GORGE", 
 				"AudioClip" : "Dreamworld Ghost Hotel Ambience 2", 
 				"SourceRadius" : 10, 
 				"DetectionRadius" : 60,
@@ -38,8 +38,8 @@
 				"Reveals": "SIGNALS_PLUS_RINGWORLD_GORGE"
 			},
 			{ 
-				"Frequency" : "Default", 
-				"Name" : "Submerged Structure", 
+				"Frequency" : "SIGNALS_PLUS_FREQ_RINGWORLD", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_SUBMERGED", 
 				"AudioClip" : "OW_TravelerTheme_newtraveler 061021 AP", 
 				"SourceRadius" : 10, 
 				"DetectionRadius" : 60,

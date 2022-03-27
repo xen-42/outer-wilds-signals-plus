@@ -3,24 +3,29 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_TIMBER_HEARTH</ID>
-        <Name>Unknown Frequencies</Name>
+        <Name>SIGNALS_PLUS_TIMBER_HEARTH</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
         <IsCuriosity/>
 
         <RumorFact>
             <ID>SIGNALS_PLUS_TIMBER_HEARTH_RUMOR</ID>
-            <Text>I should investigate Timber Hearth for any strange signal frequencies.</Text> 
+            <Text>SIGNALS_PLUS_TIMBER_HEARTH_RUMOR</Text> 
          </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_TIMBER_HEARTH_MUSEUM_STATUE</ID> 
-            <Text>The Nomai statue that looked at me in the museum is transmitting some sort of signal on a frequency I haven't seen before.</Text> 
+            <Text>SIGNALS_PLUS_TIMBER_HEARTH_MUSEUM_STATUE</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_TIMBER_HEARTH_RECEIVER</ID> 
-            <Text>I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.</Text> 
+            <Text>SIGNALS_PLUS_TIMBER_HEARTH_RECEIVER</Text> 
+        </ExploreFact>
+
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_SHIP</ID> 
+            <Text>SIGNALS_PLUS_SHIP</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

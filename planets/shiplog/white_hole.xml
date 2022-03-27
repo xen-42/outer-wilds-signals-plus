@@ -3,19 +3,19 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_WHITE_HOLE</ID>
-        <Name>Anti- Graviton Flux</Name>
+        <Name>SIGNALS_PLUS_WHITE_HOLE</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <RumorFact>
             <ID>SIGNALS_PLUS_WHITE_HOLE_RUMOUR</ID>
             <SourceID>SIGNALS_PLUS_BRITTLE_HOLLOW</SourceID>
-            <Text>My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.</Text> 
+            <Text>SIGNALS_PLUS_WHITE_HOLE_RUMOUR</Text> 
          </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_WHITE_HOLE</ID> 
-            <Text>My signalscope is reading massive anti-graviton fluctuations from the white hole. "Massive" is the wrong word. Anti-massive?</Text> 
+            <Text>SIGNALS_PLUS_WHITE_HOLE_EXPLORE</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

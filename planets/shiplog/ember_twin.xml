@@ -3,22 +3,26 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_CAVE_TWIN</ID>
-        <Name>Ember Twin Signals</Name>
+        <Name>SIGNALS_PLUS_CAVE_TWIN</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <RumorFact>
             <ID>SIGNALS_PLUS_EMBER_TWIN_RUMOUR</ID>
-            <Text>I should investigate Ember Twin for any strange signals.</Text> 
+            <Text>SIGNALS_PLUS_EMBER_TWIN_RUMOUR</Text> 
          </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_HEL</ID> 
-            <Text>I detected intense gravitational and anti-gravitational readings in the High Energy Lab.</Text> 
+            <Text>SIGNALS_PLUS_HEL</Text> 
         </ExploreFact>
         <ExploreFact>
             <ID>SIGNALS_PLUS_EMBER_TWIN_RECEIVER</ID> 
-            <Text>I found a warp receiver on the surface of Ember Twin.</Text> 
+            <Text>SIGNALS_PLUS_EMBER_TWIN_RECEIVER</Text> 
+        </ExploreFact>
+        <ExploreFact>
+            <ID>SIGNALS_PLUS_CHERT_SHIP</ID> 
+            <Text>SIGNALS_PLUS_CHERT_SHIP</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

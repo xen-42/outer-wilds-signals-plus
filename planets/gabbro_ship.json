@@ -1,0 +1,19 @@
+{
+	"name" : "GabbroShip",
+	"Signal" : 
+	{
+		"Signals" : 
+		[
+			{ 
+				"Frequency" : "SIGNALS_PLUS_FREQ_SHIP", 
+				"Name" : "SIGNALS_PLUS_SIGNAL_GABBRO_SHIP", 
+				"AudioClip" : "OW_PR_ProbeInAirSound", 
+				"SourceRadius" : 1, 
+				"DetectionRadius" : 30,
+				"IdentificationRadius" : 20,
+				"Position" : {"x": 0, "y": 0, "z": 0},
+				"Reveals" : "SIGNALS_PLUS_GABBRO_SHIP" 
+			}
+		]
+	}
+}

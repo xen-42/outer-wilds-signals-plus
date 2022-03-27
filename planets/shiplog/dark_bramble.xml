@@ -1,15 +1,15 @@
 <AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/ship-log/NewHorizons/shiplog_schema.xsd">
-    <ID>TOWER_TWIN</ID>
+    <ID>DARK_BRAMBLE</ID>
 
     <Entry>
-        <ID>SIGNALS_PLUS_TIME_LOOP_RING</ID>
-        <Name>SIGNALS_PLUS_TIME_LOOP_RING</Name>
+        <ID>SIGNALS_PLUS_DARK_BRAMBLE</ID>
+        <Name>SIGNALS_PLUS_DARK_BRAMBLE</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <ExploreFact>
-            <ID>SIGNALS_PLUS_ATP_RECEIVER</ID> 
-            <Text>SIGNALS_PLUS_ATP_RECEIVER</Text> 
+            <ID>SIGNALS_PLUS_FELDSPAR_SHIP</ID> 
+            <Text>SIGNALS_PLUS_FELDSPAR_SHIP</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

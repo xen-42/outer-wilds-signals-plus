@@ -3,33 +3,33 @@
 
     <Entry>
         <ID>SIGNALS_PLUS_RING_WORLD</ID>
-        <Name>Concealed Signals</Name>
+        <Name>SIGNALS_PLUS_RING_WORLD</Name>
 
         <Curiosity>SIGNALS_PLUS_TIMBER_HEARTH</Curiosity>
 
         <RumorFact>
             <ID>SIGNALS_PLUS_RINGWORLD_RUMOUR</ID>
-            <Text>I should investigate the Ring World for any strange signals.</Text> 
+            <Text>SIGNALS_PLUS_RINGWORLD_RUMOUR</Text> 
          </RumorFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_LOWLANDS</ID> 
-            <Text>There is a signal coming from a building in the River Lowlands.</Text> 
+            <Text>SIGNALS_PLUS_RINGWORLD_LOWLANDS</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_ISLES</ID> 
-            <Text>I found a signal coming from the tower in the Cinder Isles.</Text> 
+            <Text>SIGNALS_PLUS_RINGWORLD_ISLES</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_GORGE</ID> 
-            <Text>A building in the Hidden Gorge has a strange signal coming from it.</Text> 
+            <Text>SIGNALS_PLUS_RINGWORLD_GORGE</Text> 
         </ExploreFact>
 
         <ExploreFact>
             <ID>SIGNALS_PLUS_RINGWORLD_VAULT</ID> 
-            <Text>I found a signal coming from a submerged structure. It sounds sad.</Text> 
+            <Text>SIGNALS_PLUS_RINGWORLD_VAULT</Text> 
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>
