@@ -1,18 +1,20 @@
 {
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
 	"name" : "Attlerock",
 	"Signal" : 
 	{
-		"Signals" : 
+		"signals" : 
 		[
 			{ 
-				"Frequency" : "SIGNALS_PLUS_FREQ_SHIP", 
-				"Name" : "SIGNALS_PLUS_SIGNAL_CRASHED_SHIP", 
-				"AudioClip" : "OW_PR_ProbeInAirSound", 
-				"SourceRadius" : 1, 
-				"DetectionRadius" : 30,
-				"IdentificationRadius" : 20,
-				"Position" : {"x": 42.15765, "y": -13.16891, "z": -51.10679},
-				"Reveals" : "SIGNALS_PLUS_CRASHED_SHIP" 
+				"frequency" : "SIGNALS_PLUS_FREQ_SHIP", 
+				"name" : "SIGNALS_PLUS_SIGNAL_CRASHED_SHIP", 
+				"audioClip" : "OW_PR_ProbeInAirSound", 
+				"sourceRadius" : 1, 
+				"detectionRadius" : 30,
+				"identificationRadius" : 20,
+				"position" : {"x": 42.15765, "y": -13.16891, "z": -51.10679},
+				"reveals" : "SIGNALS_PLUS_CRASHED_SHIP",
+				"onlyAudibleToScope" : false
 			}
 		]
 	},
