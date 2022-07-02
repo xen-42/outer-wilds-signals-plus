@@ -1,0 +1,9 @@
+{
+    "achievements" : [
+        {
+            "ID" : "SIGNALS_PLUS_MISSING",
+            "secret" : true,
+            "signalIDs" : ["SIGNAL_RIVER_LOWLANDS", "SIGNAL_CINDER_ISLES", "SIGNAL_HIDDEN_GORGE", "SIGNAL_SUBMERGED_STRUCTURE"]
+        }
+    ]
+}

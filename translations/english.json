@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "UIDictionary": {
+        "SIGNAL_RIVER_LOWLANDS" : "River Lowlands",
+        "SIGNAL_CINDER_ISLES" : "Cinder Isles",
+        "SIGNAL_HIDDEN_GORGE" : "Hidden Gorge",
+        "SIGNAL_SUBMERGED_STRUCTURE" : "Submerged Structure"
+    },
+    "AchievementTranslations" : {
+        "SIGNALS_PLUS_MISSING" : {
+            "Name": "Signal Found",
+            "Description" : "Identify all signals on the Stranger"
+        }
+    }
+}
