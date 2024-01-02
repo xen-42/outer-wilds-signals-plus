@@ -3,7 +3,8 @@
   "author": "xen",
   "name": "Signals+",
   "uniqueName": "xen.SignalsPlus",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "owmlVersion": "2.1.0",
-  "dependencies": [ "xen.NewHorizons" ]
+  "dependencies": [ "xen.NewHorizons" ],
+  "donateLink": "https://www.patreon.com/xen42"
 }
