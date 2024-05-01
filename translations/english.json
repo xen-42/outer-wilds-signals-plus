@@ -4,12 +4,32 @@
         "SIGNAL_RIVER_LOWLANDS" : "River Lowlands",
         "SIGNAL_CINDER_ISLES" : "Cinder Isles",
         "SIGNAL_HIDDEN_GORGE" : "Hidden Gorge",
-        "SIGNAL_SUBMERGED_STRUCTURE" : "Submerged Structure"
+        "SIGNAL_SUBMERGED_STRUCTURE" : "Submerged Structure",
+
+        "Brittle Hollow Receiver" : "Brittle Hollow Receiver",
+        "Black Hole Forge Receiver" : "Black Hole Forge Receiver",
+        "Hawking Radiation" : "Hawking Radiation",
+
+        "High Energy Lab" : "High Energy Lab",
+        "Ember Twin Receiver" : "Ember Twin Receiver",
+
+        "Tracking Module Statue" : "Tracking Module Statue",
+        "Giant's Deep Statue" : "Giant's Deep Statue",
+        "Giant's Deep Receiver" : "Giant's Deep Receiver",
+
+        "Sun Station Receiver" : "Sun Station Receiver",
+
+        "Museum Statue" : "Museum Statue",
+        "Timber Hearth Receiver" : "Timber Hearth Receiver",
+
+        "ATP Receiver" : "Ash Twin Project Receiver",
+
+        "White Hole" : "White Hole",
     },
     "AchievementTranslations" : {
         "SIGNALS_PLUS_MISSING" : {
             "Name": "Signal Found",
-            "Description" : "Identify all signals on the Stranger"
+            "Description" : "Identify all signals on the Stranger."
         }
     }
 }
