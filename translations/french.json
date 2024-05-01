@@ -4,7 +4,27 @@
         "SIGNAL_RIVER_LOWLANDS" : "Plaines Fluviales",
         "SIGNAL_CINDER_ISLES" : "Îles Cendrées",
         "SIGNAL_HIDDEN_GORGE" : "Gorge Cachée",
-        "SIGNAL_SUBMERGED_STRUCTURE" : "Structure Immergée"
+        "SIGNAL_SUBMERGED_STRUCTURE" : "Structure Immergée",
+
+        "Brittle Hollow Receiver" : "Récepteur de Cravité",
+        "Black Hole Forge Receiver" : "Récepteur de la Forge du Trou noir",
+        "Hawking Radiation" : "Évaporation des trous noirs",
+
+        "High Energy Lab" : "Laboratoire des Hautes Énergies",
+        "Ember Twin Receiver" : "Récepteur de Sablière rogue",
+
+        "Tracking Module Statue" : "Statue du Module du Pistage",
+        "Giant's Deep Statue" : "Statue de Léviathe",
+        "Giant's Deep Receiver" : "Récepteur de Léviathe",
+
+        "Sun Station Receiver" : "Récepteur de la Station Solaire",
+
+        "Museum Statue" : "Statue du Musée",
+        "Timber Hearth Receiver" : "Récepteur de Âtrebois",
+
+        "ATP Receiver" : "Récepteur du Projet Sablière noire",
+
+        "White Hole" : "Trou Blanc",
     },
     "AchievementTranslations" : {
         "SIGNALS_PLUS_MISSING" : {
