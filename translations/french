@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "UIDictionary": {
+        "SIGNAL_RIVER_LOWLANDS" : "Plaines Fluviales",
+        "SIGNAL_CINDER_ISLES" : "Îles Cendrées",
+        "SIGNAL_HIDDEN_GORGE" : "Gorge Cachée",
+        "SIGNAL_SUBMERGED_STRUCTURE" : "Structure Immergée"
+    },
+    "AchievementTranslations" : {
+        "SIGNALS_PLUS_MISSING" : {
+            "Name": "Signal Trouvé",
+            "Description" : "Identifiez tous les signaux sur L'Étranger."
+        }
+    }
+}
