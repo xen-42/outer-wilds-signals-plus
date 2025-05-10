@@ -4,7 +4,59 @@
         "SIGNAL_RIVER_LOWLANDS" : "River Lowlands",
         "SIGNAL_CINDER_ISLES" : "Cinder Isles",
         "SIGNAL_HIDDEN_GORGE" : "Hidden Gorge",
-        "SIGNAL_SUBMERGED_STRUCTURE" : "Submerged Structure"
+        "SIGNAL_SUBMERGED_STRUCTURE" : "Submerged Structure",
+        "Brittle Hollow Receiver": "Brittle Hollow Receiver",
+        "Black Hole Forge Receiver": "Black Hole Forge Receiver",
+        "Hawking Radiation": "Hawking Radiation",
+        "High Energy Lab": "High Energy Lab",
+        "Ember Twin Receiver": "Ember Twin Receiver",
+        "Tracking Module Statue": "Tracking Module Statue",
+        "Giant's Deep Statue": "Giant's Deep Statue",
+        "Giant's Deep Receiver": "Giant's Deep Receiver",
+        "Sun Station Receiver": "Sun Station Receiver",
+        "Museum Statue": "Museum Statue",
+        "Timber Hearth Receiver": "Timber Hearth Receiver",
+        "ATP Receiver": "ATP Receiver",
+        "White Hole": "White Hole"
+    },
+    "ShipLogDictionary": {
+        "Brittle Hollow Signals": "Brittle Hollow Signals",
+        "I should investigate Brittle Hollow for any strange signals.": "I should investigate Brittle Hollow for any strange signals.",
+        "I found a warp receiver on the surface of Brittle Hollow.": "I found a warp receiver on the surface of Brittle Hollow.",
+        "I found a warp receiver under Brittle Hollow's surface, near the Black Hole Forge.": "I found a warp receiver under Brittle Hollow's surface, near the Black Hole Forge.",
+
+        "Ember Twin Signals": "Ember Twin Signals",
+        "I should investigate Ember Twin for any strange signals.": "I should investigate Ember Twin for any strange signals.",
+        "I detected intense gravitational and anti-gravitational readings in the High Energy Lab.": "I detected intense gravitational and anti-gravitational readings in the High Energy Lab.",
+        "I found a warp receiver on the surface of Ember Twin.": "I found a warp receiver on the surface of Ember Twin.",
+
+        "Giant's Deep Signals": "Giant's Deep Signals",
+        "I should investigate Giant's Deep for any strange signals.": "I should investigate Giant's Deep for any strange signals.",
+        "I found an actively transmitting Nomai statue in the core of Giant's Deep!": "I found an actively transmitting Nomai statue in the core of Giant's Deep!",
+        "I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.": "I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.",
+        "I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.": "I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.",
+
+        "Concealed Signals": "Concealed Signals",
+        "I should investigate the Ring World for any strange signals.": "I should investigate the Ring World for any strange signals.",
+        "There is a signal coming from a building in the River Lowlands.": "There is a signal coming from a building in the River Lowlands.",
+        "I found a signal coming from the tower in the Cinder Isles.": "I found a signal coming from the tower in the Cinder Isles.",
+        "A building in the Hidden Gorge has a strange signal coming from it.": "A building in the Hidden Gorge has a strange signal coming from it.",
+        "I found a signal coming from a submerged structure. It sounds sad.": "I found a signal coming from a submerged structure. It sounds sad.",
+
+        "Sun Station Receiver": "Sun Station Receiver",
+        "I found a warp receiver on the Sun Station. Getting here without that would be a real <i>achievement</i>.": "I found a warp receiver on the Sun Station. Getting here without that would be a real <i>achievement</i>.",
+
+        "Unknown Frequencies": "Unknown Frequencies",
+        "I should investigate Timber Hearth for any strange signal frequencies.": "I should investigate Timber Hearth for any strange signal frequencies.",
+        "The Nomai statue that looked at me in the museum is transmitting some sort of signal on a frequency I haven't seen before.": "The Nomai statue that looked at me in the museum is transmitting some sort of signal on a frequency I haven't seen before.",
+        "I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.": "I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.",
+
+        "ATP Receiver": "ATP Receiver",
+        "I found a warp receiver in the center of Ash Twin.": "I found a warp receiver in the center of Ash Twin.",
+
+        "Anti- Graviton Flux": "Anti- Graviton Flux",
+        "My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.": "My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.",
+        "My signalscope is reading massive anti-graviton fluctuations from the white hole. \"Massive\" is the wrong word. Anti-massive?": "My signalscope is reading massive anti-graviton fluctuations from the white hole. \"Massive\" is the wrong word. Anti-massive?"
     },
     "AchievementTranslations" : {
         "SIGNALS_PLUS_MISSING" : {
