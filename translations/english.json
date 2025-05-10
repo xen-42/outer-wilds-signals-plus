@@ -34,7 +34,7 @@
         "I should investigate Giant's Deep for any strange signals.": "I should investigate Giant's Deep for any strange signals.",
         "I found an actively transmitting Nomai statue in the core of Giant's Deep!": "I found an actively transmitting Nomai statue in the core of Giant's Deep!",
         "I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.": "I found another active Nomai statue on an island on Giant's Deep. I wonder if Gabbro knows anything about this.",
-        "I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.": "I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.",
+        "I found a warp receiver on an island on Giant's Deep. It's emitting anti-graviton flux.": "I found a warp receiver on an island on Giant's Deep",
 
         "Concealed Signals": "Concealed Signals",
         "I should investigate the Ring World for any strange signals.": "I should investigate the Ring World for any strange signals.",
@@ -49,12 +49,12 @@
         "Unknown Frequencies": "Unknown Frequencies",
         "I should investigate Timber Hearth for any strange signal frequencies.": "I should investigate Timber Hearth for any strange signal frequencies.",
         "The Nomai statue that looked at me in the museum is transmitting some sort of signal on a frequency I haven't seen before.": "The Nomai statue that looked at me in the museum is transmitting some sort of signal on a frequency I haven't seen before.",
-        "I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.": "I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.",
+        "I found a warp receiver on the surface of Timber Hearth. It is emitting anti-graviton flux.": "I found a warp receiver on the surface of Timber Hearth",
 
         "ATP Receiver": "ATP Receiver",
         "I found a warp receiver in the center of Ash Twin.": "I found a warp receiver in the center of Ash Twin.",
 
-        "Anti- Graviton Flux": "Anti- Graviton Flux",
+        "Anti-Graviton Flux": "Anti-Graviton Flux",
         "My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.": "My signalscope is detecting intense Hawking Radiation coming from the center of Brittle Hollow. I wonder what I'll find at the other end.",
         "My signalscope is reading massive anti-graviton fluctuations from the white hole. \"Massive\" is the wrong word. Anti-massive?": "My signalscope is reading massive anti-graviton fluctuations from the white hole. \"Massive\" is the wrong word. Anti-massive?"
     },
